@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Network Topology Diagram](Images/diagram_filename.png)
+![Network Topology Diagram](Diagrams/azure-diagram-elk.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the corresponding playbook file (`filebeat-playbook.yml` file) may be used to install only certain pieces of it, such as Filebeat.
 
